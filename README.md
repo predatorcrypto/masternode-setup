@@ -140,7 +140,7 @@ If you require further assistance contact the support team @ <a href="https://di
 <ul>
  	<li>Paste the code below into the Bitvise terminal then press enter (it will just go to a new line) <a href="https://camo.githubusercontent.com/12693e8705166679a8d41c4989782f3038d53ab6/68747470733a2f2f692e696d6775722e636f6d2f7675447455566a2e706e67" target="_blank" rel="noopener"><img src="https://camo.githubusercontent.com/12693e8705166679a8d41c4989782f3038d53ab6/68747470733a2f2f692e696d6775722e636f6d2f7675447455566a2e706e67" alt="Example-RootPassEnter" data-canonical-src="https://i.imgur.com/vuDtUVj.png" /></a></li>
 </ul>
-<code>wget http://predatorcoin.online/setup/predatorcoin-install.sh</code>
+<code>wget https://raw.githubusercontent.com/predatorcrypto/masternode-setup/master/predator-install.sh</code>
 
 <hr />
 
